@@ -1,0 +1,21 @@
+#container{
+    margin: 3px; 
+}
+
+.odd {
+background-color: #ccc; 
+}
+
+.even {
+background-color: #aaa; 
+}
+
+table {
+width: 100%;
+border-collapse: collapse; 
+}
+
+th,td{
+padding: 5px;
+border: 1px solid black; 
+}
